@@ -1,5 +1,5 @@
 
-module code
+module quiz3
 import StdEnv
 
 /*
